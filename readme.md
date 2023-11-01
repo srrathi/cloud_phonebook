@@ -1,4 +1,4 @@
-# Socket Programming Example
+# Cloud Phonebook
 
 This is a simple client-server program demonstrating socket programming in C. The program allows users to perform basic CRUD (Create, Read, Update, Delete) operations on a contact list stored on the server.
 
